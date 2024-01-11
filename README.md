@@ -1,4 +1,6 @@
-# SpectroTune---Genre-Classifier
+# Music Genre Classifier
+
+Full medium article is here -> https://medium.com/@niknair31898/music-genre-classification-using-mel-spectrograms-88ce05400d3c
 
 <img src="./HEADER.png"  />
 
